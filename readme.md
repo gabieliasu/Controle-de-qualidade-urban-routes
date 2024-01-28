@@ -1,2 +1,2 @@
-Olá! testaremos nesse projeto a funcionalidade do app# PROJETO-2
+Analisaremos requisitos e faremos casos de teste
 # projeto
