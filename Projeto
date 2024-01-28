@@ -1,0 +1,46 @@
+ Análise de Requisitos e casos de teste para Urban Routes.
+ Urban Routes é um serviço que cria rotas para vários tipos de transporte. Ele calcula o tempo de viagem e o custo.
+ Foi usada uma planilha do excel para melhor visualização,organização e detalhamento das verificações e testes. E o aplicativo Draw.io para planejamento do mapa mental.
+
+Objetivos:
+1-Analisar requisitos, encontrar zonas cinzentas e especificar elas;
+2-Decompor e visualizar os requisitos com um mapa mental e um fluxograma;
+3-Definir os objetos de teste e projetar testes com a ajuda de técnicas de design de teste;
+4-Escrever casos de teste.
+
+Responsabilidades:
+------- Analisando requisitos -------
+Foi criado um mapa mental e um fluxograma para verificarmos se todos os requisitos estão no lugar e se eles têm áreas cinzentas.
+link requisitos: 
+link mapa mental:
+link fluxograma:
+
+------- Definindo objetos de teste -------
+Foram Definidas as classes de equivalência e valores de limite para os campos de entrada: "Horário de partida", "De", "Para", com valores válidos e inválidos.
+verificando no 'horário de partida' os campos para horas e minutos.
+link tabela:
+
+------- Definindo designs de teste -------
+Para Verificarmos se o custo e tempo da viagem foram calculados corretamente, utilizamos o fluxograma para visualizar a lógica, definimos as classes de equivalência para distância e horário de partida.
+link tabela:
+link fluxograma:
+
+------- Escrevendo casos de teste -------
+Foi verificado a exatidão da lógica de cálculo do tempo e custo de uma viagem ,inclusive quando a distância for 0 e com base nos valores de teste dentro das classes de equivalência.
+link tabela:
+
+
+Tecnologias utilizadas: 
+Aplicativo Draw.io (mapa mental e fluxograma)
+Ferramenta do Excel (tabelas)
+Documentações de teste: mapa mental, fluxograma, casos de teste
+Design de teste: classes de equivalência, testes positivos e negativos, valores limites.
+
+
+Resultados:
+Detalhamento de verificações a fim de verificar se o aplicativo funciona corretamente com entradas válidas ou inválidas
+Casos de teste para ver se a lógica do aplicativo funciona como deveria.
+
+Aprendizados:
+Olhar os mínimos detalhes e prestar bastante atenção aos requisitos para não deixar passar nada sem verificar.
+
