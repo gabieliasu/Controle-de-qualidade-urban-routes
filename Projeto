@@ -11,9 +11,9 @@ Objetivos:
 Responsabilidades:
 ------- Analisando requisitos -------
 Foi criado um mapa mental e um fluxograma para verificarmos se todos os requisitos estão no lugar e se eles têm áreas cinzentas.
-link requisitos: 
+ 
 link mapa mental: https://drive.google.com/file/d/1dGl10kdfUgsvVpyyKxMonYzfhVxmohSb/view?usp=sharing
-link fluxograma:
+link fluxograma: https://docs.google.com/document/d/1nPQwRgiIkTEQgkwpjvrpPv112aDBG45snKYg-W9yQDQ/edit?usp=sharing
 
 ------- Definindo objetos de teste -------
 Foram Definidas as classes de equivalência e valores de limite para os campos de entrada: "Horário de partida", "De", "Para", com valores válidos e inválidos.
