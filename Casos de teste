@@ -14,20 +14,36 @@ t-2                                Abra o serviço Urban Routes            O tem
                                                                                                                           5	         Selecione o ícone de carro particular 
 
 
-t-3                                Abra o serviço Urban Routes            O tempo dirigindo um carro                      1	         Insira o horário de partida: 15:                                        Deverá aparecer o ícone personal
+t-3                                Abra o serviço Urban Routes            O tempo dirigindo um carro                      1	         Insira o horário de partida: 15:00                                      Deverá aparecer o ícone personal
                                                                           e o custo de carro particular                   2	         "Insira o campo ''de'' com o endereço 1300 1st St                       e carro particular selecionados.
                                                                           no Urban Routes com horário de início           3	         Insira o campo ''para'' com o endereço 1717 E 7th St                    tempo de corrida estimado de 5 minutos 
                                                                           de 12:01 às 18:00                               4	         Selecione ''personal'' no ícone de modos de seleção                     e custo de $2.
                                                                                                                           5	         Selecione o ícone de carro particular 
 
-t-4                                Abra o serviço Urban Routes            O tempo dirigindo um carro                      1	         Insira o horário de partida: 1:12                                       Deverá aparecer o ícone personal
+t-4                                Abra o serviço Urban Routes            O tempo dirigindo um carro                      1	         Insira o horário de partida: 19:12                                      Deverá aparecer o ícone personal
                                                                           e o custo de carro particular                   2	         "Insira o campo ''de'' com o endereço 615 S Broadway                    e carro particular selecionados.
                                                                           no Urban Routes com horário de início           3	         Insira o campo ''para'' com o endereço 4201 Whittier Blvd               tempo de corrida estimado de 9 minutos 
                                                                           de 18:01 às 22:00                               4	         Selecione ''personal'' no ícone de modos de seleção                     e custo de $4,5.
                                                                                                                           5	         Selecione o ícone de carro particular 
 
 
-t-5
+t-5                                Abra o serviço Urban Routes            O tempo dirigindo um carro                      1	         Insira o horário de partida: 23:44                                      Deverá aparecer o ícone personal
+                                                                          e o custo de carro particular                   2	         "Insira o campo ''de'' com o endereço 1917 Bay St                       e carro particular selecionados.
+                                                                          no Urban Routes com horário de início           3	         Insira o campo ''para'' com o endereço 1300 1st St                      tempo de corrida estimado de 5 minutos 
+                                                                          de 22:01 às 00:00                               4	         Selecione ''personal'' no ícone de modos de seleção                     e custo de $2,5.
+                                                                                                                          5	         Selecione o ícone de carro particular 
+
+
+t-6                             Abra o serviço Urban Routes               O tempo dirigindo um carro                      1	         Insira o horário de partida: 23:33                                      Deverá aparecer o ícone personal
+                                                                          e o custo de carro particular                   2	         "Insira o campo ''de'' com o endereço 1917 Bay St                       e carro particular selecionados.
+                                                                          no Urban Routes com horário de início           3	         Insira o campo ''para'' com o endereço 1917 bay St                      tempo de corrida estimado de 0 minutos 
+                                                                          de 22:01 às 00:00                               4	         Selecione ''personal'' no ícone de modos de seleção                     e custo 0.
+                                                                                                                          5	         Selecione o ícone de carro particular 
+
+
+
+
+
 
 
 
