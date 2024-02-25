@@ -18,7 +18,6 @@ verificando no 'horário de partida' os campos para horas e minutos.
 ------- Definindo designs de teste -------
 Para Verificarmos se o custo e tempo da viagem foram calculados corretamente, utilizamos o fluxograma para visualizar a lógica, definimos as classes de equivalência para distância e horário de partida.
 
-
 ------- Escrevendo casos de teste -------
 Foi verificado a exatidão da lógica de cálculo do tempo e custo de uma viagem ,inclusive quando a distância for 0 e com base nos valores de teste dentro das classes de equivalência.
 
