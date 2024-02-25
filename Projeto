@@ -14,12 +14,10 @@ Foi criado um mapa mental e um fluxograma para verificarmos se todos os requisit
 ------- Definindo objetos de teste -------
 Foram Definidas as classes de equivalência e valores de limite para os campos de entrada: "Horário de partida", "De", "Para", com valores válidos e inválidos.
 verificando no 'horário de partida' os campos para horas e minutos.
-link tabela: https://docs.google.com/spreadsheets/d/1m5FPRX4Ql-1zBEfxeqCBvtdHzz_iEOEy/edit?usp=sharing&ouid=116259215055925948735&rtpof=true&sd=true
 
 ------- Definindo designs de teste -------
 Para Verificarmos se o custo e tempo da viagem foram calculados corretamente, utilizamos o fluxograma para visualizar a lógica, definimos as classes de equivalência para distância e horário de partida.
-link tabela:https://docs.google.com/spreadsheets/d/1m5FPRX4Ql-1zBEfxeqCBvtdHzz_iEOEy/edit?usp=sharing&ouid=116259215055925948735&rtpof=true&sd=true
-link fluxograma:https://docs.google.com/document/d/1nPQwRgiIkTEQgkwpjvrpPv112aDBG45snKYg-W9yQDQ/edit?usp=sharing
+
 
 ------- Escrevendo casos de teste -------
 Foi verificado a exatidão da lógica de cálculo do tempo e custo de uma viagem ,inclusive quando a distância for 0 e com base nos valores de teste dentro das classes de equivalência.
