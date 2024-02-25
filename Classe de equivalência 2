@@ -1,5 +1,5 @@
 Grupo de verificações     	    Nome da classe	                               Limites	                  Dados de teste dentro da classe               	        Dados de teste nos limites 
-Distância entre os endereços	   distância > 0		                                                        1811 E 20th St - 1717 E 7th St
+Distância entre os endereços	       distância > 0		                                                        1811 E 20th St - 1717 E 7th St
 	                               distância = 0		                                                        4201 Whittier Blvd - 4201 Whittier Blvd
 
 
