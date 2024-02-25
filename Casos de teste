@@ -1,5 +1,5 @@
 
- identificação de caso de teste	    Pré-condição	                        Nome do caso de teste	                   Número da etapa	  Descrição da etapa	                                                      Resultado esperado
+ identificação de caso de teste	    Pré-condição	                        Nome do caso de teste	                   Número da etapa	  Descrição da etapa	                                                      Resultado esperado:
  t-1                                Abra o serviço Urban Routes           O tempo dirigindo um carro                      1	         Insira o horário de partida: 06:55                                      Deverá aparecer o ícone personal
                                                                           e o custo de carro particular                   2	         "Insira o campo ''de'' com o endereço 4201 Whittier Blvd"               e carro particular selecionados.
                                                                           no Urban Routes com horário de início           3	         Insira o campo ''para'' com o endereço 1917 Bay St                      tempo de corrida estimado de 5 minutos 
