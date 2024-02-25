@@ -1,1 +1,52 @@
+     Grupo de verificação:                      Nome da classe:                                      limites:                         dados de teste dentro da classe :                                  dados de teste nos limites:
+                                          Formatação de horas válidas                                 0,23                                    8,2,19                                                                -1,0,1,22,23,24
+                                          Formatação de horas inválidas                                                                       30,26,57  
+                                          Campo horas vazio                                                                                   campo vazio 
+                                          Validação de campo horas com símbolos                                                               ⛧
+                                          Validação de campo horas com caractere especial                                                     @#
+     Horário de partida. Horas            Validação de campo horas com letras não latinas                                                     三號街
+                                          Zero antes de digitos únicos                                                                        01,02,03
+                                          Validação de campo hora com espaço                                                                  _8,8_
+                                          Validação de campos com letras                                                                      J8,9L
+                                          Validação de campo com mais de dois dígitos                                                         123567
+                                          Validação de campo com dois dígitos                                                                 11,18,23
+                                          Validação de campo com menos de dois dígitos                                                        4,7,9
+
+
+
+
+                                          Formatação de minutos válidas 	                                                                    0,59	03,18, 56	-1,0,1,58,59,60                                       -1,0,1,58,59,60
+                                          Formatação de minutos inválidas 		                                                                73,80,99	
+                                          Zero antes de digitos obrigatórios		                                                              01,07,09	
+                                          Validação de campo minutos com espaço		                                                            _7,7_	
+      Horário de partida. Minutos         Validação de campo minutos com letras	                                                             	K5,4R	
+                                          Validação de campo minutos com símbolos		                                                          ⛧	
+                                          Validação de campo minutos com caractere especial	                                                 	&*	
+                                          Validação de campo minutos com letras não latinas		                                                三號街	
+                                          Campo minutos vazio 		                                                                            campo vazio 	
+                                          Validação de campo com dois dígitos		                                                              22,37	
+                                          Validação de campo com mais de dois dígitos		                                                      333, 1234	
+                                          Validação de campo com menos de dois dígitos		                                                    3,5,8	
+
+
+
+
+
+                                          Validação de endereço com letras latinas 		                                                        São Francisco	
+                                          Validação de endereço com número		                                                                Margaridas 101	
+                                          Validação de endereço com espaços		                                                                Rua da feira 	
+                                          Validação de endereço com traços		                                                                Street-47	
+                                          Validação de endereço com barras		                                                                Avenida / 2	
+                                          Validação de endereço com pontos		                                                                Av. ricardo junior 	
+  Campos ''De'' e ''Para''                Validação de endereço com vírgulas		                                                              East 2nd Street, 902	
+                                          Validação de endereço com caracteres especiais		                                                  Rua @@	
+                                          Validação de endereço com no máximo 50 caracteres	          1,50	                                  Av brigadeiro newton braga	                                            0,1,2,49,50,51
+                                          Validação de endereço com mais de 51 caracteres	            51	                                    Rua margarida francisca lima e silva cardoso de morais alfredo santos	
+                                          campo vazio 		                                                                                    campo vazio	
+                                          Validação de endereço com espaço no início do texto		                                              _rua tereza	
+                                          Validação de endereço com espaço no final do texto	                                              	Rua oscar_	
+                                          Validação de endereço com letras não latinas		                                                    三號街	
+
+
+
 
