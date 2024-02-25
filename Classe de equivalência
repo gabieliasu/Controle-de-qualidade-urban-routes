@@ -38,7 +38,7 @@
                                           Validação de endereço com traços		                                                                Street-47	
                                           Validação de endereço com barras		                                                                Avenida / 2	
                                           Validação de endereço com pontos		                                                                Av. ricardo junior 	
-  Campos ''De'' e ''Para''                Validação de endereço com vírgulas		                                                              East 2nd Street, 902	
+      Campos ''De'' e ''Para''            Validação de endereço com vírgulas		                                                              East 2nd Street, 902	
                                           Validação de endereço com caracteres especiais		                                                  Rua @@	
                                           Validação de endereço com no máximo 50 caracteres	          1,50	                                  Av brigadeiro newton braga	                                            0,1,2,49,50,51
                                           Validação de endereço com mais de 51 caracteres	            51	                                    Rua margarida francisca lima e silva cardoso de morais alfredo santos	
