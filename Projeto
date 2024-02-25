@@ -21,7 +21,6 @@ Para Verificarmos se o custo e tempo da viagem foram calculados corretamente, ut
 
 ------- Escrevendo casos de teste -------
 Foi verificado a exatidão da lógica de cálculo do tempo e custo de uma viagem ,inclusive quando a distância for 0 e com base nos valores de teste dentro das classes de equivalência.
-link tabela: https://docs.google.com/spreadsheets/d/1m5FPRX4Ql-1zBEfxeqCBvtdHzz_iEOEy/edit?usp=sharing&ouid=116259215055925948735&rtpof=true&sd=true
 
 
 Tecnologias utilizadas: 
