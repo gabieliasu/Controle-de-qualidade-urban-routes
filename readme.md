@@ -4,8 +4,13 @@ Vamos analisar requisitos, encontrar zonas cinzentas e especificar elas, decompo
 
 # Recursos
 Mapa mental: para informações estruturadas
+
 Fluxograma : ordem dos passos que devem ser seguidos para resolver a tarefa.
+
 Classes de equivalência : análise e a decomposição, Definindo os valores limite para cada classe e assim garantir uma total cobertura de testes.
+
+
+
 
 
 
