@@ -9,6 +9,8 @@ Fluxograma : ordem dos passos que devem ser seguidos para resolver a tarefa.
 
 Classes de equivalência : análise e a decomposição, Definindo os valores limite para cada classe e assim garantir uma total cobertura de testes.
 
+Relatórios de bugs no JIRA : problemas relatados e rastreados identificados durante os testes
+
 
 
 
