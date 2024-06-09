@@ -1,11 +1,8 @@
-# About
-Urban Routes - Serviço que cria rotas para vários tipos de transporte.
-Este projeto foi desenvolvido durante o curso de QA da TripleTen.
 
 
 # Urban Routes
 
-Vamos analisar requisitos minuciosamente, encontrar zonas cinzentas, especificar elas, decompor e visualizar os requisitos com um mapa mental e um fluxograma, definir os objetos de teste e projetar testes negativos e positivos com a ajuda de técnicas de design de teste e escrever casos de teste.
+Foram analisados requisitos minuciosamente, zonas cinzentas foram encontradas e especificadas,visualizei os requisitos com um mapa mental e um fluxograma, defini os objetos de teste e projetei testes negativos e positivos com a ajuda de técnicas de design de teste e escrevi casos de teste.
 
 A primeira parte do projeto, conta com grupos de verificação para os objetos de testes com extensas classes e valores limites testados dentro das classes, para verificar se o aplicativo processa da mesma maneira.
 
@@ -24,7 +21,7 @@ Classes de equivalência : análise e a decomposição, Definindo os valores lim
 
 Relatórios de bugs no JIRA : problemas relatados e rastreados identificados durante os testes
 
-# Recursos
+# Resultado
 Aprovado.
 Testes negativos e positivos, funcionais e não funcionais para a correta elaboração dos testes.
 
